@@ -117,21 +117,22 @@ Es werden nicht nur Geld- sondern auch Sachgewinne dargestellt.
 98. Runde:..... (43360 Euro)
 99. Runde:....160 . (43520 Euro)
 100. Runde:.....960  (44480 Euro)
-===============================
-Laufzeit: 29194 ms
-===============================
-43 Runden mit Nieten
-0 Runden mit Verlust
-0 Runden mit Einsatz erspielt
-56 Runden mit Gewinn
-1 Runden mit hohem Gewinn
-===============================
-Geldeinsatz: 5858 Euro
-Gewinne: 44480 Euro
-Saldo: 38622 Euro
-Rundenschnitt: 440 Euro
-===============================
-1x 10k 0.9901%
-2x 1k 1.9802%
-27x 960 26.73267%
-41x 160 40.59406%
+
+----------
+* Laufzeit: 29194 ms
+----------
+* 43 Runden mit Nieten
+* 0 Runden mit Verlust
+* 0 Runden mit Einsatz erspielt
+* 56 Runden mit Gewinn
+* 1 Runden mit hohem Gewinn
+----------
+* Geldeinsatz: 5858 Euro
+* Gewinne: 44480 Euro
+* Saldo: 38622 Euro
+* Rundenschnitt: 440 Euro
+----------
+* 1x 10k 0.9901%
+* 2x 1k 1.9802%
+* 27x 960 26.73267%
+* 41x 160 40.59406%
