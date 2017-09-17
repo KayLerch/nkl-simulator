@@ -13,9 +13,9 @@ namespace io.klerch.nkl.simulator
         // Gib hier deine siebenstellige NKL-Losnummer an
 		const string Losnummer = "1815426";
         // Gib ihr den Anteil an, den du am Los besitzt (1/1 oder 1/2 oder 1/4 oder 1/8 oder 1/16)
-        const double Losanteil = 1/4;
+        const double Losanteil = 1/1;
         // Gib hier die Anzahl der Simulationen an, die durchgefuehrt werden sollen
-		const int Anzahl_Runden = 100;
+		const int Anzahl_Runden = 1000;
         // Hat das Los den Millionen-Joker?
         const bool MillionenJoker = true;
         // Hat das Los den Renten-Joker?
